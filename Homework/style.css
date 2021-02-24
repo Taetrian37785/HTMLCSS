@@ -73,6 +73,13 @@ html {
     line-height: 30px;
     color: slategray;
   }
+  .comparison-titles > h2{
+    padding-top: 20px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 30px;
+    color: slategray;
+  }
   .description-text {
     padding-bottom: 20px;
   }
